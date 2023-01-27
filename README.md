@@ -20,8 +20,8 @@ $ pkg install libwebp
 $ pkg install imagemagick
 $ pkg install git
 $ pkg install yarn
-$ gitclone https://github.com/Hyzer/Hyzer-MD
-$ cd Hyzer-MD
+$ gitclone https://github.com/kap320/Shana-MD
+$ cd Shana-MD
 $ yarn
 $ rm -rf global/session.json
 $ node .
@@ -52,3 +52,4 @@ Untuk request atau report bug bisa chat saya disini [Whatsapp](https://wa.me/628
 [![Caliph](https://github.com/caliphdev.png?size=100)](https://github.com/caliphdev)
 [![BochilScraper](https://github.com/bochilteam.png?size=100)](https://github.com/bochilteam)
 [![Sad Team](https://github.com/sadteams.png?size=100)](https://github.com/sadteams)
+[![Shana Team](https://github.com/kap320.png?size=100)](https://github.com/kap320)
